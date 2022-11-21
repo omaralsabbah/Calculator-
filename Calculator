@@ -1,0 +1,16 @@
+def Calculator(a,b,c):
+    if c == '+':
+        print(a+b)
+    elif c == '-':
+        print(a-b)
+    elif c == '*' or c == 'x' or c == 'X':
+        print(a*b)
+    elif c == '/':
+        print(a/b)
+    else:
+        print("the operator is invalid")
+
+Calculator(10,5,"-")
+Calculator(10,5,"*")
+Calculator(10,5,"x")
+Calculator(10,5,"/")
