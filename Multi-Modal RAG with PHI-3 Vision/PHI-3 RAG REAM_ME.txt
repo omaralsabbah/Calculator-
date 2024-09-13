@@ -1,0 +1,14 @@
+Ream the below points for running the notebook properly:
+
+1-Change runtime to GPU 
+2-upload the PDF file to Colab with the name 'NIPS-2017-attention-is-all-you-need-Paper' or modify the pdf_path accordingly in cell number 2 
+3-Save the HF token in Google Colab secrets under the name 'HF_TOKEN' and toggle notebook access on 
+4- Run all 
+5-After running all for first time , you can use the last two cells 'Mark-down part' for changing the query and generating again.
+(example queries provided in the notebook in the last two cells)
+
+
+
+
+
+-----------------------------------------------------------------------
